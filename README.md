@@ -1,2 +1,2 @@
 # project
-A Amazon Project
+A amazon Project
